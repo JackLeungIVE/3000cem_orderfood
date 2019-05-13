@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193273425094",
+    "firebase_url": "https://cemjack-269ef.firebaseio.com",
+    "project_id": "cemjack-269ef",
+    "storage_bucket": "cemjack-269ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193273425094:android:6b376c4c41f36b59",
+        "android_client_info": {
+          "package_name": "com.example.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193273425094-ev4sm06rji0pmk4tdfc39dodkfifn8hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orderfood",
+            "certificate_hash": "2be572cfa8cf9f519910152059eed7acc0035f63"
+          }
+        },
+        {
+          "client_id": "193273425094-hgr1ibv6isv7t2s39ca9u2om7n63hufv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO2CAl7tcTVEnC57EbYLndzre9runFeAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193273425094-hgr1ibv6isv7t2s39ca9u2om7n63hufv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
